@@ -3,24 +3,24 @@ Online Incarceration Roles
 Who will play the following roles?
 
 Alex Ruchti
-* *Point of Contact – person to contact instructor
-* *Timekeeper – makes sure team is keeping to schedule
+* *Timekeeper ï¿½ makes sure team is keeping to schedule
 * *Topickeeper -- makes sure team does not become sidetracked
 
 Jack Flitcroft
-* *Sponsor point of Contact – person to contact sponsors
-* *Proof Reader/Editor – completes final proofing of projects 
+* *Point of Contact ï¿½ person to contact instructors and stakeholders
+* *Proof Reader/Editor ï¿½ completes final proofing of projects 
 
 Paul Rinaldi
-* *Recorder – records meetings activities
+* *Recorder ï¿½ records meetings activities
+* *Meeting Facilitator ï¿½ leads meetings based on agenda
 
 Daniel Anderson
-* *Poster – posts assignments in slack
-* *Meeting Convener/Organizer – call meetings and writes agenda
+* *Poster ï¿½ posts assignments in slack
+* *Meeting Convener/Organizer ï¿½ call meetings and writes agenda
 
 Andrew Thomas
-* *Meeting Facilitator – leads meetings based on agenda
-* *Project Coordinator – organizes tasks on Trello (all work together)
+* *Researcher ï¿½ reasearches organizations and people who we meet in order for the team to be prepared for meetings
+* *Project Coordinator ï¿½ organizes tasks on Trello (all work together)
 
 Rotate Roles
 * When (after each project)?
